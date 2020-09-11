@@ -1,0 +1,3 @@
+[submodule "templates/pandoc-bootstrap"]
+	path = templates/pandoc-bootstrap
+	url = https://github.com/renzph/pandoc-bootstrap
